@@ -1,0 +1,4 @@
+EasyCore
+========
+
+EasyCore Framework
