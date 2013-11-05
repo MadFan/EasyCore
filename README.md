@@ -1,4 +1,4 @@
 EasyCore
 ========
 
-EasyCore Framework
+EasyCore Framework by Sergii Zakharov
